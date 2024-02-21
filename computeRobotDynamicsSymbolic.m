@@ -1,6 +1,4 @@
 %% Praful Sigdel
-% AME 556: Robot Dynamics and Control
-% Problem 2 b
 
 function ddq = computeRobotDynamicsSymbolic()
 
