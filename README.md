@@ -6,6 +6,7 @@ https://github.com/Praful22/RobotDynamicsandControl/assets/65821250/368b6db9-785
 
 # Cart-Pendulum Simulation
 https://github.com/Praful22/RobotDynamicsandControl/assets/65821250/e7b2a347-79d5-4f7c-b12e-94e87b584813
+
 <img width="1220" alt="Screenshot 2024-02-20 at 9 40 46 PM" src="https://github.com/Praful22/RobotDynamicsandControl/assets/65821250/69887186-4004-4a06-a2ea-6f0f397e3c00">
 
 
