@@ -28,12 +28,12 @@ fq_dq = (jacobian(L,dq))';
 D_q = jacobian(fq_dq,dq);
 
 Cq_dq = jacobian(fq_dq,q)*dq - (jacobian(T,q))';
-display(Cq_dq);
+
 g_q = (jacobian(U,q))';
-display(g_q);
+
 
 Nq_dq = Cq_dq + g_q;
-display(Nq_dq);
+
  
 ddq = (D_q)\(tau - Nq_dq);
 
