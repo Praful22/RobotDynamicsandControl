@@ -7,8 +7,11 @@ https://github.com/Praful22/RobotDynamicsandControl/assets/65821250/368b6db9-785
 # Cart-Pendulum Simulation
 https://github.com/Praful22/RobotDynamicsandControl/assets/65821250/e7b2a347-79d5-4f7c-b12e-94e87b584813
 
-# Projectile in 2D with drag with Cd = 0.05
-![trajecotryfirstcase](https://github.com/Praful22/RobotDynamicsandControl/assets/65821250/ea3d9e7a-8a76-4216-a8e0-fccebe2fa0c0)
+# Projectile in 2D with drag with Cd = 0.05, Cd = 0.5 and variable initial velocity
+https://github.com/Praful22/RobotDynamicsandControl/assets/65821250/a5a7b1a4-d956-49a2-ae32-adbf25efaaec
 
+https://github.com/Praful22/RobotDynamicsandControl/assets/65821250/5b4bf28a-b497-45c2-930f-a19e4b3bf309
+
+https://github.com/Praful22/RobotDynamicsandControl/assets/65821250/2e3b72b8-215b-4265-a3c5-a2a91ec4142f
 
 
